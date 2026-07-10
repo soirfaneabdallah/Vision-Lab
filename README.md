@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="Vision Lab Logo" width="200"/>
+  <img src="assets/logos/icon.png" alt="Vision Lab Logo" width="200"/>
 </p>
 
 <h1 align="center">🐟 Vision Lab</h1>
