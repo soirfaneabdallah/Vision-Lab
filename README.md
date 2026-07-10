@@ -33,9 +33,9 @@
   5. Fermez l'issue sans l'envoyer si vous le souhaitez.
 -->
 
-| Interface principale | Statistiques en direct |
-|:---:|:---:|
-| ![Interface principale](img/Vision-lab.png) | ![Panneau statistiques](screenshots/stats_panel.png) |
+| Interface principale |
+|:---:|
+| ![Interface principale](img/Vision-lab.png) | 
 
 ### 🎥 Démonstration vidéo
 [![Regarder la démo](screenshots/video_thumbnail.png)](https://github.com/user-attachments/assets/LIEN_VIDEO_ISSUE)  
