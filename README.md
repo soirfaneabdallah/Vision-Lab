@@ -35,7 +35,7 @@
 
 | Interface principale | Statistiques en direct |
 |:---:|:---:|
-| ![Interface principale](screenshots/main_window.png) | ![Panneau statistiques](screenshots/stats_panel.png) |
+| ![Interface principale](img/Vision-lab.png) | ![Panneau statistiques](screenshots/stats_panel.png) |
 
 ### 🎥 Démonstration vidéo
 [![Regarder la démo](screenshots/video_thumbnail.png)](https://github.com/user-attachments/assets/LIEN_VIDEO_ISSUE)  
